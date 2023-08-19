@@ -1,0 +1,19 @@
+.specilaity-selector{
+    position: absolute;
+    left: 25%;
+    top: 32%;
+}
+.h1-spec{
+    position: absolute;
+    left: 65%;
+    bottom: 67%;
+}
+.search{
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+}
+.succ-hr{
+    margin-top: 85px;
+    
+}
